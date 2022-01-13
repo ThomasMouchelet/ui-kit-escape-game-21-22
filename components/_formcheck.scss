@@ -1,0 +1,19 @@
+.select-form{
+    position: absolute;
+    background-color: #86EBD9;
+    padding: 20px;
+
+    input{
+        position: absolute;
+        top: -999999px;
+    }
+    .select-group{
+        margin: 10px;
+    }
+    label{
+        display: block;
+        background-color: red;
+        height: 10px;
+        width: 10px;
+    }
+}
